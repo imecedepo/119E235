@@ -1,6 +1,6 @@
-## İmece-Depo: İşbirlikçi Hücresel Ağlarda Veri Önbellekleme Için Cihazdan Cihaza Iletişim Ile Dağıtık Depolama, Optimale Yakın Kodlama Ve Protokol Tasarımı.
+## İmece-Depo: İşbirlikçi Hücresel Ağlarda Veri Önbellekleme Için Cihazdan Cihaza Iletişim Ile Dağıtık Depolama, Optimale Yakın Kodlama Ve Protokol Tasarımı. [English Version](https://github.com/imecedepo/119E235-DISCO-proc/).
 
-### Markdown
+### Özet
 
 Hücresel ağlarda popüler dosyaların cihazlarda önbelleklenmesi ile, cihazlar arası etkileşim, baz istasyonu (Bİ) üzerine
 düşen iletişim yükünü oldukça azaltmaktadır. Dağıtık veri önbellekleme işlemi popüler bir dosyanın parçalarının
